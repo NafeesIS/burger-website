@@ -30,7 +30,7 @@ const Footer = () => {
               <div className="flex flex-col gap-3">
                 <h3 className="text-lg uppercase font-oswald">SUPPORT</h3>
                 <a href="" className="text-xs hover:text-secondaryColor">
-                  FAQ's
+                  FAQs
                 </a>
                 <a href="" className="text-xs hover:text-secondaryColor">
                   Privacy Policy
