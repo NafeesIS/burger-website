@@ -50,7 +50,7 @@ const Footer = () => {
 
                 <p className="flex items-center gap-2 text-xs">
                   <Image className="w-4" src={phone} alt="facebook" />
-                  +1 000 000 0000
+                  +8801715409191
                 </p>
               </div>
 
@@ -59,7 +59,7 @@ const Footer = () => {
 
                 <p className="flex items-center gap-2 text-xs">
                   <Image className="w-4" src={envelope} alt="facebook" />
-                  burger.info@email.com
+                  nafeesshawon555@email.com
                 </p>
               </div>
             </li>
@@ -99,7 +99,7 @@ const Footer = () => {
           </ul>
 
           <div className="flex flex-col items-center border-t border-primaryColorLight dark:border-darkColorLight py-5 md:flex-row md:justify-between">
-            <p className="paragraph">Burger Template Kit by Light Code</p>
+            <p className="paragraph">Burger Website by Nafees Imtiaz Shawon</p>
             <p className="paragraph">Copyright © 2023. All rights reserved.</p>
           </div>
         </div>
