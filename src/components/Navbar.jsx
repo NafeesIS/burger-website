@@ -26,7 +26,7 @@ const Navbar = () => {
               : "hidden absolute top-0 left-0 w-full py-14 bg-primaryColor dark:bg-darkColor border-b border-secondaryColor md:block md:static md:py-0 md:border-none md:w-auto md:ml-auto"
           }`}
         >
-          <ul className="flex flex-col md:flex-row lg:flex-row items-center justify-center text-center gap-5">
+          <ul className="flex flex-col md:flex-row items-center justify-center text-center gap-5">
             <li>
               <a
                 href="#home"
