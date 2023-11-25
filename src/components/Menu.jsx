@@ -120,7 +120,7 @@ const Menu = () => {
       : items.filter((item) => item.type === activeTab);
 
   return (
-    <section>
+    <section id="menu">
       <div className="container">
         <div className="max-w-md mx-auto text-center">
           <h2 className="section__title">Our Best Menu</h2>

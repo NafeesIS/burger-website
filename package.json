@@ -17,7 +17,8 @@
     "react": "latest",
     "react-dom": "latest",
     "remixicon": "^3.5.0",
-    "remixicon-react": "^1.0.0"
+    "remixicon-react": "^1.0.0",
+    "swiper": "^11.0.5"
   },
   "devDependencies": {
     "autoprefixer": "latest",

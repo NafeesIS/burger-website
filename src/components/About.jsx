@@ -5,7 +5,7 @@ import check from "../../public/check-solid.svg";
 
 const About = () => {
   return (
-    <section>
+    <section id="about">
       <div className="container flex flex-col md:flex-row gap-10">
         <div className="flex-1">
           <Image className="rounded-lg" src={aboutPic} alt="about pic" />

@@ -6,7 +6,7 @@ import faDroplet from "../../public/droplet-solid.svg";
 import faEnvira from "../../public/envira.svg";
 const Hero = () => {
   return (
-    <section>
+    <section id="home">
       <div className="container flex flex-col items-center gap-10 md:flex-row">
         <div className="mx-auto md:basis-1/2 lg:basis-2/5 animate-movingY">
           <Image src={homeImg} alt="burger" className="w-60 md:w-full" />
